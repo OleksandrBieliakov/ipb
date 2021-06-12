@@ -1,0 +1,30 @@
+Office for Foreigners: Process of issuing Residency Permission for a foreigner.
+
+The process starts with a foreigner contacting the Office for Foreigners Information Office by phone to get the information about the needed documents and fee to pay for his/her case and to book the date and time of documents submission. The Information Office employee needs to check the available dates in the registry and arrange the suitable time with the foreigner. The information about the coming meeting is then passed to the Submission Office employee who is assigned to process the submission.
+If the foreigner does not appear at the booked time in the office, the process ends.
+During documents submission meeting the Submission Office employee checks originals and copies of all the provided documents and confirmation of fee payment, scans them and saves scans to the registry, scans foreigner’s fingerprints and saves scans to registry, forms the Case paperwork package.
+If the Submission Office employee detects the absence of any required document the foreigner is notified about it and is requested to provide the document within 3 weeks, but the Case is still forwarded further. If the requested documents are not provided within 3 weeks, the Case is discarded, the foreigner is notified about it by mail, the process ends.
+The Case is then sent to the Processing Office where a Processing officer is assigned to the Case. The Processing officer starts processing of the Case by checking if all the required documents are provided and are valid. If any of the provided documents is absent or is not valid, the officer sends the request to provide a proper variant of the document to the foreigner by mail. If the requested documents are not provided within 3 weeks, the Case is discarded, the foreigner is notified about it by mail, the process ends.
+The foreigner submits required documents by mail (letter) or by assigning an additional meeting to Submission Office, from where the documents will be passed to the Processing office.
+When all the documents are in place the Processing officer sends requests to other government institutions and involved organisations to confirm the information about the foreigner:
+-	Border Service Office – to confirm the legality of the foreigner’s current presence in the country and the history of the country entries and departure.
+-	Police Institution – to confirm that the foreigner is not a criminal.
+-	Accounting department – to confirm fee payment.
+-	If the foreigner applies for residency for educational purposes – the educational institution where the foreigner is going to study – to confirm foreigner’s student status.
+-	If the foreigner applies for residency for work purposes:
+-	the employer company – to confirm foreigner’s employment status.
+-	Tax Office – to confirm foreigner’s tax history validity.
+The responses from the organisations are awaited in parallel.
+When all the required responses are received, they are checked, and the Processing officer conducts the final analysis of the application. If the Processing officer’s decision is negative the foreigner is notified by mail, the case is archived, decision is saved to registry, the process ends. If the decision is positive the formal application to the State Authority Representative is formed and send for signing. 
+The foreigner is notified by mail about the date of issuing the Residency Permission and requested to pay a fee for printing the Residency Permission ID. The request for printing a Residency Permission ID is sent to the Department of Government Printing where the ID is printed and sent to the Submission Office. 
+The foreigner receives the Residency Permission ID in the Submission Office. Processing Office is notified, the case is archived, the process ends.
+
+Aautomation of activities:
+1.	The first thing that can be automated is the submission booking process and the process of obtaining the information about required documents by foreigners. Information about documents can be placed on a web page in a convenient and clear way in different languages, so foreigners would be able to check it on their own. And the booking can be organized by means of electronic queue booking system.
+2.	Minor automatization – if after requesting a document from a foreigner due to documents absence or invalidity, foreigner would not provide a document within 3 weeks the system will automatically enter the information about the overdue to the registry and send notification about it to the Processing Office.
+3.	The major process slowing factor is the current way of manual requesting information about the foreigners from different institutions. As the Office for Foreigners is a part of a government structure it would be much more effective and convenient if each government institution had access to a single Integrated Registry. So instead of sending separate request to other institutions the employees of Processing Office would simply query the Integrated Registry for needed data about the foreigner. This also applies to Educational Institutions and employment data (Employment data is available due to the Tax Office integration to the Integrated Registry).
+4.	Information about fee payment will be automatically entered to the Registry, so there will be no need to request a confirmation about payment from the Accounting Department, Processing Office employees will be able to just query this data in the Registry themselves.
+
+
+
+
